@@ -35,7 +35,7 @@ ppt-agent-project/
 
 ### Prerequisites
 
-1.  **Trae IDE**: These skills are designed to work within the Trae environment.
+1.  **Trae IDE**: These skills are designed to work within the Trae environment（Simultaneously supports CLI tools such as claude-code and iflow）.
 2.  **Volcengine Ark API Key**: You need an API key to access the image generation models.
     *   Apply for a key here: [https://www.volcengine.com/product/ark](https://www.volcengine.com/product/ark)
 3.  **Python 3.x**: For running the generation script.
