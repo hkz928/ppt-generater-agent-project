@@ -8,7 +8,7 @@
 
 **基于 AI 的自动化技术演示文稿生成系统**
 
-这是一个基于 Trae Agent 的综合解决方案，旨在自动化创建专业技术 PPT 的全流程：从智能规划、内容生成，到视觉渲染和演讲稿撰写，一气呵成。
+这是一个基于 Trae Agent 的综合解决方案，实现了自动化创建专业技术 PPT 的全流程：从智能规划、内容生成，到视觉渲染和演讲稿撰写，一气呵成。
 
 ## 🚀 核心特性
 
@@ -35,7 +35,7 @@ ppt-agent-project/
 
 ### 前置条件
 
-1.  **Trae IDE**：本项目技能专为 Trae 环境设计。
+1.  **Trae IDE**：本项目技能专为 Trae 环境设计（同时支持claude-code、iflow等cli工具）。
 2.  **火山引擎 Ark API Key**：你需要一个 API Key 来访问图像生成模型。
     *   点击此处申请 Key：[https://www.volcengine.com/product/ark](https://www.volcengine.com/product/ark)
 3.  **Python 3.x**：用于运行生成脚本。
