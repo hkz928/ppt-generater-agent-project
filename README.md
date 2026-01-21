@@ -1,5 +1,7 @@
 # PPT Generation Agent
 
+[English](./README.md) | [简体中文](./README_cn.md)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Trae](https://img.shields.io/badge/IDE-Trae-green.svg)
